@@ -1,0 +1,15 @@
+firstrun.rb
+average_chute_time.rb
+average_response_time.rb
+average_scene_time.rb
+average_turn_around_time.rb
+average_chute_time_by_hour_of_day.rb
+average_respone_time_by_hour_of_day.rb
+average_turn_around_time_by_hour_of_day.rb
+average_chute_time_by_unit.rb
+average_response_time_by_unit.rb
+average_scene_time_for_stroke_patients.rb
+average_turn_around_time_by_unit.rb
+
+echo
+ 
